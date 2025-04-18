@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Oziy-shop App",
+    "description": "A small shop with Next.js main purpose of creating this shop is that how to fetch data clean in Next.js and work with some ui.",
+    "technologies": ["Next.js", "Tailwind CSS", "TailblockUI"],
+    "liveUrl": "https://oziy-shop-yn4w.vercel.app/",
+    "repoUrl": "https://github.com/Ozodbekk1/oziy-shop",
+    "image": "https://yourdomain.com/images/link-shortener.png"
+  },
+  {
+    "id": 2,
+    "title": "Integrate clerk",
+    "description": "A demo website how to integrate your web with clerk authentication.",
+    "technologies": ["Next.js", "Clerk", "Tailwind CSS"],
+    "liveUrl": "clerk-auth-gamma-tawny.vercel.app",
+    "repoUrl": "https://github.com/Ozodbekk1/test",
+    "image": "https://yourdomain.com/images/netflix-clone.png"
+  },
+  {
+    "id": 3,
+    "title": "Oziy-Edu app",
+    "description": "I have tryed to create StartUp project and i was built this app with React.js, Tailwind css and shadcn/ui. But it failed for more wait for writing article about this (check blogs section :) )",
+    "technologies": ["Reac.js", "Tailwind CSS", "shadcn/ui"],
+    "liveUrl": "oziy-education.vercel.app",
+    "repoUrl": "https://github.com/Ozodbekk1/oziyEducation",
+    "image": "https://yourdomain.com/images/devto-clone.png"
+  }
+]
