@@ -25,5 +25,14 @@
     "liveUrl": "oziy-education.vercel.app",
     "repoUrl": "https://github.com/Ozodbekk1/oziyEducation",
     "image": "https://yourdomain.com/images/devto-clone.png"
+  },
+  {
+    "id": 4,
+    "title": "test",
+    "description": "I have tryed to create StartUp project and i was built this app with React.js, Tailwind css and shadcn/ui. But it failed for more wait for writing article about this (check blogs section :) )",
+    "technologies": ["Reac.js", "Tailwind CSS", "shadcn/ui"],
+    "liveUrl": "oziy-education.vercel.app",
+    "repoUrl": "https://github.com/Ozodbekk1/oziyEducation",
+    "image": "https://yourdomain.com/images/devto-clone.png"
   }
 ]
