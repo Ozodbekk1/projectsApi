@@ -25,6 +25,24 @@
     "liveUrl": "oziy-education.vercel.app",
     "repoUrl": "https://github.com/Ozodbekk1/oziyEducation",
     "image": "https://i.imgur.com/wSoLAhZ.png"
+  },
+  {
+    "id": 4,
+    "title": "Color gradient generator",
+    "description": "i cerated color gradient generator, while i was learning basics.",
+    "technologies": ["HTML5", "CSS3", "JavaScript"],
+    "liveUrl": "https://color-gradient-generator-virid.vercel.app/",
+    "repoUrl": "https://github.com/Ozodbekk1/color-gradient-generator",
+    "image": "https://imgur.com/7E039hE"
+  },
+  {
+    "id": 5,
+    "title": "Calculator",
+    "description": "This is a simple web-based calculator built using HTML, CSS, and JavaScript, designed to perform exponentiation (daraja) calculations. The app allows users to quickly calculate the power of a number in a clean and responsive UI.",
+    "technologies": ["HTML5", "CSS3", "JavasScript"],
+    "liveUrl": "https://calculatooor-eksu.vercel.app/",
+    "repoUrl": "https://github.com/Ozodbekk1/calculatooor",
+    "image": "https://imgur.com/SBnfSgu"
   }
  
 ]
