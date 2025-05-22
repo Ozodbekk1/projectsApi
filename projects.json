@@ -2,8 +2,7 @@
   {
     "id": 1,
     "title": "Oziy-shop App",
-    "description": "A small e-commerce shop built with Next.js.
-The main goal of this project was to practice clean data fetching in Next.js and experiment with UI components. 🛒💻",
+    "description": "A small e-commerce shop built with Next.js. The main goal of this project was to practice clean data fetching in Next.js and experiment with UI components. 🛒💻",
     "technologies": ["Next.js", "Tailwind CSS", "TailblockUI"],
     "liveUrl": "https://oziy-shop-yn4w.vercel.app/",
     "repoUrl": "https://github.com/Ozodbekk1/oziy-shop",
@@ -21,10 +20,7 @@ The main goal of this project was to practice clean data fetching in Next.js and
   {
     "id": 3,
     "title": "Oziy-Edu app",
-    "description": "I attempted to create a startup project and built the app using React.js, Tailwind CSS, and shadcn/ui.
-Unfortunately, it didn’t go as planned 😅 — but I learned a lot in the process!
-I’ll be sharing more about what went wrong (and what I learned) in an upcoming blog post. Stay tuned! ✍️
-(Check the blogs section 😉)",
+    "description": "I attempted to create a startup project and built the app using React.js, Tailwind CSS, and shadcn/ui. Unfortunately, it didn’t go as planned 😅 — but I learned a lot in the process! I’ll be sharing more about what went wrong (and what I learned) in an upcoming blog post. Stay tuned! ✍️ (Check the blogs section 😉)",
     "technologies": ["Reac.js", "Tailwind CSS", "shadcn/ui"],
     "liveUrl": "oziy-education.vercel.app",
     "repoUrl": "https://github.com/Ozodbekk1/oziyEducation",
@@ -42,8 +38,7 @@ I’ll be sharing more about what went wrong (and what I learned) in an upcoming
   {
     "id": 5,
     "title": "Calculator",
-    "description": "This is a simple web-based calculator 🧮 built using HTML, CSS, and JavaScript, designed to perform exponentiation (daraja) calculations.
-The app allows users to quickly calculate the power of a number ⚡ in a clean and responsive UI 📱✨.",
+    "description": "This is a simple web-based calculator 🧮 built using HTML, CSS, and JavaScript, designed to perform exponentiation (daraja) calculations. The app allows users to quickly calculate the power of a number ⚡ in a clean and responsive UI 📱✨.",
     "technologies": ["HTML5", "CSS3", "JavasScript"],
     "liveUrl": "https://calculatooor-eksu.vercel.app/",
     "repoUrl": "https://github.com/Ozodbekk1/calculatooor",
