@@ -1,5 +1,23 @@
 [
   {
+  "id": 6,
+  "title": "Next.js CRM Dashboard",
+  "description": "A scalable CRM dashboard application using Next.js, TypeScript, shadcn/ui, Tailwind CSS, and form validation with React Hook Form and Zod. Built for clean form management and UI composition.",
+  "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "React Hook Form", "Zod"],
+  "liveUrl": "https://next-js-crm.vercel.app/dashboard",
+  "repoUrl": "https://github.com/Ozodbekk1/NextJs-CRM-", 
+  "image": "https://yourdomain.com/images/nextjs-crm-dashboard.png"
+  },
+  {
+  "id": 0,
+  "title": "Fargʻonaliklar News Website",
+  "description": "A modern news platform built with React, TypeScript, and Tailwind CSS. It features dynamic news rendering, SEO-friendly pages, and responsive UI components using Tailblocks.",
+  "technologies": ["React.js", "TypeScript", "Tailwind CSS", "Tailblocks"],
+  "liveUrl": "https://fargonaliklar-news-react.vercel.app/",
+  "repoUrl": "https://github.com/Ozodbekk1/fargonaliklar-news-react", 
+  "image": "https://yourdomain.com/images/fargonaliklar-news.png"
+},
+  {
     "id": 1,
     "title": "Oziy-shop App",
     "description": "A small e-commerce shop built with Next.js. The main goal of this project was to practice clean data fetching in Next.js and experiment with UI components. 🛒💻",
